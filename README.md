@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
     <h1>
         <img src="documentation/readme-assets/toutlefoot-logo.png" alt="2lefoot logo" height="75px">
