@@ -161,6 +161,3 @@ npm --version
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkm94)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diane-mpk/)
-=======
-# soccer-website-ts
->>>>>>> e28a03d86e879dea5aa95f42a13e45a828fbbc6e
